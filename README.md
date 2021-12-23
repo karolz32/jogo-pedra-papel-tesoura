@@ -1,8 +1,8 @@
-#Pedra-papel-tesoura
+# Pedra-papel-tesoura
 
 Um projeto simples de um joguinho para passar o tempo... 
 
-##Regras
+## Regras
 - Jogador deve escolher entre:
     - 1: pedra
     - 2: papel
@@ -11,9 +11,9 @@ Um projeto simples de um joguinho para passar o tempo...
 - Quem ganha o turno leva um ponto.
 - Em caso de empate, ganham os dois.
 
-##Implementações
+## Implementações
 
-###v1
+### v1
  - Rodadas fixas de 5 turnos;
  - Máquina ainda pode fazer escolhas fora do escopo;
  - Sem punições para escolhas fora do escopo;
